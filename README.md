@@ -1,6 +1,6 @@
 # Hack Reactor: Introduction to Computer Science
 
-Thank you for joining our intro to Computer Science workshop! Here you can find the slides presented during the workshop and a quiz to test your knowledge of computer science fundamentals.
+Thank you for joining our Introduction to Computer Science workshop! Here you can find the slides presented during the workshop and a quiz to test your knowledge of computer science fundamentals.
 
 Do not worry if you do not get every question correct on the quiz. Complexity analysis in particular can be quite tricky and take some repitition to get right. Just do your best!
 
