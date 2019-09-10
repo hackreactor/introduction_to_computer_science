@@ -10,7 +10,7 @@ Feel free to use google, workshop slides, and documentation to help you get to t
 
 ## Slides
 
-The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/1iqJN6LQaJdAlmlWtGyw2EWCQoNnGnR3BG_AHZSouXQ4/edit?usp=sharing).
+The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQEc4y1wtmobcTSmJ08lCM1FQVarlG39R_fYxmzK3eOUNsgKhJiJCYvpLzaIlxqvYNBbrjhxovMEZGV/pub?start=false&loop=false&delayms=60000).
 
 ## Quiz
 
